@@ -1,7 +1,8 @@
-package com.hitg.padroesdeprojetoandroid
+package com.hitg.padroesdeprojetoandroid.ui.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.hitg.padroesdeprojetoandroid.R
 
 class MainActivity : AppCompatActivity() {
 
